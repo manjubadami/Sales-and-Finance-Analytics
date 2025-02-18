@@ -1,0 +1,11 @@
+D:.
+|   Sales_Report.xlsx
+|   
+\---Sales
+        dim_customer.csv
+        dim_market.csv
+        dim_product.csv
+        fact_sales_monthly.csv
+        fact_sales_monthly_with_cost.csv
+        ns_targets_2021.csv
+        
