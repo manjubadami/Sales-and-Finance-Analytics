@@ -39,11 +39,13 @@ The `Sales_Report.xlsx` provides answers to these crucial business questions:
 
 ## Technical and Soft Skills
 
-[x] ETL Proficiency: Demonstrated proficiency in ETL (Extract, Transform, Load) methodology
-[x] Power Query Expertise: Utilized Power Query to generate dynamic data tables by connecting to various data sources
-[x] Fiscal Date Handling: Skill in deriving fiscal months and quarters
-[x] Power Pivot Data Modeling: Successfully defined and maintained relationships between tables within Power Pivot based on primary and foreign keys
-[x] Data Model Expansion: Seamlessly integrated supplementary data from external sources into existing data models
-[x] DAX Calculated Columns: Utilized DAX to create calculated columns
+1. ETL Proficiency: Demonstrated proficiency in ETL (Extract, Transform, Load) methodology 
+2. Power Query Expertise: Utilized Power Query to generate dynamic data tables by connecting to various data sources
+3. Fiscal Date Handling: Skill in deriving fiscal months and quarters
+4. Power Pivot Data Modeling: Successfully defined and maintained relationships between tables within Power Pivot based on primary and foreign keys
+5. Data Model Expansion: Seamlessly integrated supplementary data from external sources into existing data models
+6. DAX Calculated Columns: Utilized DAX to create calculated columns
+
+
 
 
